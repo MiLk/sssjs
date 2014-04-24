@@ -1,6 +1,6 @@
 # Simple Storage Service in JavaScript
 
-It provide a simple service to upload and download files via HTTP.
+It provides a simple service to upload and download files via HTTP.
 
 ## Installation
 
@@ -10,7 +10,7 @@ It provide a simple service to upload and download files via HTTP.
 
 ## Usage
 
-   make start
+    make start
 
 ## Usage with [Marathon](https://github.com/mesosphere/marathon)
 
